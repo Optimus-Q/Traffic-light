@@ -71,7 +71,7 @@ To train the YOLOv8 model on the custom dataset:
      This plot shows the classification loss during validation.
      The loss decreases from around 1.75 to about 0.5, similar to the training loss, indicating good generalization to the validation data.
 
- Val/Dfl Loss:
+6. Val/Dfl Loss:
      This plot shows the distribution focal loss during validation.
      The loss decreases from around 1.6 to about 1.1, reflecting improvements in the predicted bounding boxes' locations on the validation set.
 
