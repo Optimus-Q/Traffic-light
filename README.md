@@ -101,6 +101,6 @@ To train the YOLOv8 model on the custom dataset:
 
 ![Loss plot3](metric/results_1.jpg)
 
-![Loss plot4](metric/results_2.png)
+![Loss plot4](metric/results_2.jpg)
 
-![Loss plot5](metric/results_3.png)
+![Loss plot5](metric/results_3.jpg)
