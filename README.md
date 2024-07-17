@@ -49,6 +49,8 @@ To train the YOLOv8 model on the custom dataset:
    
 ## Training and validation metrics
 
+![Loss plot](metric/results.png)
+
 ### Loss plots
 
  1. Train/Box Loss:
@@ -93,3 +95,12 @@ To train the YOLOv8 model on the custom dataset:
      This plot shows the mean Average Precision across IoU thresholds from 0.5 to 0.95.
      The mAP50-95 increases from around 0.3 to 0.6, showing improvement in overall model performance considering stricter IoU thresholds.
 
+![Loss plot1](metric/P_curve.png)
+
+![Loss plot2](metric/confusion_matrix_normalized.png)
+
+![Loss plot3](metric/results_1.jpg)
+
+![Loss plot4](metric/results_2.png)
+
+![Loss plot5](metric/results_3.png)
