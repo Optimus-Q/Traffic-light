@@ -1,6 +1,6 @@
 # Traffic-light detection for DMS system using YOLO V8
 
-![Traffic Light Detection DMS](output/traffic.png))
+![Traffic Light Detection DMS](output/traffic.png)
 
 ![Traffic Light Detection DMS](output/traficlight.avi)
 
